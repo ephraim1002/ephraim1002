@@ -1,6 +1,5 @@
 ### Hi there 👋
 🔭 I’m currently working on becoming a Software Engineer
-[coding](https://github.com/ephraim1002/ephraim1002/assets/88501752/7e3c47b5-962c-4d63-98d9-042ca2b87d40)
 
 
 <!--!**ephraim1002/ephraim1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
