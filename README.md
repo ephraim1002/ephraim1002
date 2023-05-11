@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on becoming a Software Engineer
 
 <!--
 **ephraim1002/ephraim1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
